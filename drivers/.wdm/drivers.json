@@ -1,0 +1,14 @@
+{
+    "win32_chromedriver_latest_for_114.0.5735": {
+        "timestamp": "13/06/2023",
+        "binary_path": "drivers\\.wdm\\drivers\\chromedriver\\win32\\114.0.5735.90\\chromedriver.exe"
+    },
+    "win64_geckodriver_latest_for_": {
+        "timestamp": "14/06/2023",
+        "binary_path": "./drivers\\.wdm\\drivers\\geckodriver\\win64\\v0.33.0\\geckodriver.exe"
+    },
+    "win64_geckodriver_latest_for_114.0": {
+        "timestamp": "14/06/2023",
+        "binary_path": "./drivers\\.wdm\\drivers\\geckodriver\\win64\\v0.33.0\\geckodriver.exe"
+    }
+}
